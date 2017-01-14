@@ -3,6 +3,6 @@ import 'reflect-metadata/Reflect';
 import platformBrowserDynamic from '@angular/platform-browser-dynamic';
 
 import './styles.less';
-import app from './app/app.component';
+import AppModule from './app/app.module';
 
-platformBrowserDynamic.bootstrap(app);
+platformBrowserDynamic.platformBrowserDynamic().bootstrapModule(AppModule);
