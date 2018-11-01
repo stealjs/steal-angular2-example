@@ -23,7 +23,7 @@
     "@angular/router": "^3.4.3",
     "@angular/router-deprecated": "2.0.0-rc.2",
     "@angular/upgrade": "^2.4.3",
-    "angular-in-memory-web-api": "^0.2.4",
+    "angular-in-memory-web-api": "^0.7.0",
     "bootstrap": "^3.3.6",
     "crypto": "^0.0.3",
     "reflect-metadata": "^0.1.9",
