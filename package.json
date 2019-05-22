@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "concurrently": "^3.1.0",
-    "lite-server": "^2.2.0",
+    "lite-server": "^2.5.1",
     "steal-less": "^1.1.0"
   }
 }
